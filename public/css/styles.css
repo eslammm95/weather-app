@@ -7,10 +7,11 @@ body {
   margin: 0 auto;
   padding: 0 20px;
   background-image: url(../img/banner.jpg);
+  background: ;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
-
+  background-size: 100% 100vh;
+  position: relative;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -43,7 +44,7 @@ footer {
 
 header {
   margin-top: 20px;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
 
 header a {
