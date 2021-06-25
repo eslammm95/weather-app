@@ -87,9 +87,12 @@ i {
 }
 
 aside {
-  float: right;
+  position: relative !important;
+  float: right !important;
   margin-right: 210px !important;
-  margin-top: 50px;
+  margin-top: 50px !important;
+  justify-content: center !important;
+  align-content: center !important;
 }
 
 section  {
