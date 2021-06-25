@@ -86,16 +86,4 @@ i {
   margin-right: 20px;
 }
 
-aside {
-  position: relative !important;
-  float: right !important;
-  margin-right: 210px !important;
-  margin-top: 50px !important;
-  justify-content: center !important;
-  align-content: center !important;
-}
 
-section  {
-  margin-top: 150px;
-  float: left;
-}
