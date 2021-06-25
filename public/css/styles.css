@@ -32,7 +32,6 @@ footer {
 
 #footername {
     color: #2e2e2e;
-    text-shadow: 5px 5px 12px #eeeeee;
 }
 
 #message-1 {
@@ -62,7 +61,7 @@ nav {
 }
 
 .portrait {
-  width: 250px;
+  width: 200px;
 }
 
 #message-1 {
@@ -81,4 +80,19 @@ button {
   background: #2e2e2e;
   color: white;
   padding: 8px;
+}
+
+i {
+  margin-right: 20px;
+}
+
+aside {
+  float: right;
+  margin-right: 210px !important;
+  margin-top: 50px;
+}
+
+section  {
+  margin-top: 150px;
+  float: left;
 }
