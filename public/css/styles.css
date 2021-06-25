@@ -16,6 +16,7 @@ body {
   min-height: 100vh;
   justify-content: center;
   align-content: center;
+  font-family: "Audiowide", sans-serif;
 }
 
 .main-content {
@@ -45,15 +46,19 @@ footer {
 
 header {
   margin-top: 20px;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
-header a {
+nav a {
 
   color: #2e2e2e;
   font-size: 20px;
   margin-right: 17px;
   text-decoration: none;
+}
+
+nav {
+  margin-bottom: 30px;
 }
 
 .portrait {
