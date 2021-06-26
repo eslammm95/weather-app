@@ -6,7 +6,7 @@ body {
   max-width: auto;
   margin: 0 auto;
   padding: 0 20px;
-  background-image: url(../img/banner.jpg);
+  background-image: url(../img/banner2.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100vh;
@@ -18,6 +18,13 @@ body {
   align-content: center;
   font-family: "Audiowide", sans-serif;
 }
+
+@media screen and (min-width: 1024px){
+  body {
+    background-image: url(../img/banner.jpg);
+  }
+}
+
 
 .main-content {
   flex-grow: 1;
