@@ -19,7 +19,7 @@ body {
   font-family: "Audiowide", sans-serif;
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 720px){
   body {
     background-image: url(../img/banner.jpg);
   }
